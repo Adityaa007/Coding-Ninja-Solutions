@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+
+void nForest(int N)
+ {
+	// Write your code here.
+	for(int i=0;i<N;i++)
+{
+	for(int j=0;j<N;j++)
+	{
+		cout<<"* ";
+	}
+	cout<<endl;
+}
+}
+
